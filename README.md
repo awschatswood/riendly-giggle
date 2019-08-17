@@ -6,3 +6,4 @@ An [example](http://www.pluralsight.com/ "pluralsight")
 
 This is about the README.md markdown file 
 
+Change from both local and remote.  this is done from remote. 
