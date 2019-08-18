@@ -1,4 +1,4 @@
-macq-lab-nn4600-12# show support-info 
+sampelbranch# show support-info 
 <<< show process cpu all
    Task Name     Task Id Pri   Status     Total CPU     Avg    Now    Load  Processor
 ---------------  ------- ---- -------- --------------- ------ ------ ------ ---------
@@ -9015,5 +9015,4 @@ SPL Version: C3.1.9
 
 >>> show spl 
 
-macq-lab-nn4600-12# 
-macq-lab-nn4600-12# 
+samplebranch# 
