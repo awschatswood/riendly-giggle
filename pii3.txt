@@ -1,0 +1,12 @@
+variable "ANSIBLE_TOWER_CONFIGKEY" {
+  type    = string
+  default = "ATAADDDSa2jRDKTC6Ao0DQneeN2ItfH6sPamEtYJF"
+}
+
+variable "sgw_bucket_name" {
+  description = "storage gateway bucket name"
+}
+
+[default]
+aws_access_key_id = AKIAXYKJUFBBFLSAMB01
+aws_secret_access_key = UYIiI+84DvADGzcc12TRP2NojTYikwabW456ex4x
