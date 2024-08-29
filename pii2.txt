@@ -1,13 +1,13 @@
 
-This file contains PII info: 
+variable "ANSIBLE_TOWER_CONFIGKEY" {
+  type    = string
+  default = "ATAADDDSa2jRDKTC6Ao0DQneeN2ItfH6sPamEtYJF"
+}
 
-This file contains PII info: 
+variable "sgw_bucket_name" {
+  description = "storage gateway bucket name"
+}
 
-This file contains PII info: 
+AccessKeyId=AKIASPMGYSNAEXAMPLE
+aws_secret_access_key = ATAADDDSa2jRDKTC6Ao0DQneeN2ItfH6sPamEtYJFEXAMPLE
 
-This file contains PII info: 
-
-This file contains PII info: 
-This file contains PII info:  test@test.com , phone number:  191-423-2345
-This file contains PII info:  test2@test.com , phone number:  191-423-2343
-This file contains PII info:  test3@test.com , phone number:  291-423-2345
