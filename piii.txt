@@ -1,6 +1,6 @@
 variable "ANSIBLE_TOWER_CONFIGKEY" {
   type    = string
-  default = "ATAADDDSa2jRDKTC6Ao0DQneeN2ItfH6sPamEtYJF"
+  default = "ATAADDDSa2"
 }
 
 variable "sgw_bucket_name" {
